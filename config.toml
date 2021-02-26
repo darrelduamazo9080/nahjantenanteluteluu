@@ -1,0 +1,4 @@
+baseURL = "https://amorpoema-como77.vercel.app"
+languageCode = "en-us"
+title = "Poems in English and Mexico"
+theme = "hugo-theme-minos"
